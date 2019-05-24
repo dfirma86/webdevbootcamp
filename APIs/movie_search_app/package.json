@@ -1,0 +1,18 @@
+{
+  "name": "movie_search_app",
+  "version": "1.0.0",
+  "description": "Movie Search App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dino Firmalino",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "nodemon": "^1.18.11",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
+}
